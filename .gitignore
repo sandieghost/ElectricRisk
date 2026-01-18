@@ -1,0 +1,41 @@
+# Binaries
+Binaries/
+*/Binaries/
+
+# Build results
+Build/
+*/Build/
+
+# Intermediate files
+Intermediate/
+*/Intermediate/
+
+# Saved files
+Saved/
+*/Saved/
+
+# Derived Data Cache
+DerivedDataCache/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+.idea/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.lib
+*.obj
+
+# Unreal autosaves
+*.tmp
+*.log
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
